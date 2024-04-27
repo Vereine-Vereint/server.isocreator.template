@@ -1,2 +1,1 @@
-# template.server
-Template for managing server
+# server.isocreator.template
